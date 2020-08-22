@@ -1,0 +1,20 @@
+{
+    "name": "Halo Bekasi ID",
+    "short_name": "Halo Bekasi",
+    "description": "Sebuah web tentang Kota Bekasi",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#2b79b6",
+    "theme_color": "#2b79b6",
+    "icons": [{
+            "src": "/assets/image/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/image/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
